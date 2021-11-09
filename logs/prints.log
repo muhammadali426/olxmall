@@ -1,0 +1,5 @@
+17:21:13.419 [TestNG-tests-1] INFO  resources.base - Driver is Initialized
+17:21:13.594 [TestNG-tests-2] INFO  resources.base - Driver is Initialized
+17:21:13.833 [TestNG-tests-3] INFO  resources.base - Driver is Initialized
+17:21:28.388 [TestNG-tests-3] INFO  resources.base - Navigated to  Home Page
+17:21:29.019 [TestNG-tests-2] INFO  resources.base - Navigated to  Home Page
